@@ -74,3 +74,11 @@ Java, Swing, concurrencia y programación orientada a objetos. Colección de pr�
 ## Sobre las variantes
 
 Los sufijos breves distinguen versiones recuperadas. No representan proyectos comerciales distintos ni pruebas de funcionamiento. Algunas copias solo conservan parte del programa; su README indica las limitaciones detectadas.
+
+## New learning programs · November 2026
+
+- [Binary Search CLI](proyectos/binary-search-cli/README.md)
+- [Unit Converter](proyectos/unit-converter/README.md)
+- [Text Inspector](proyectos/text-inspector/README.md)
+
+New implementations are identified in each README; recovered variants remain separately documented.
